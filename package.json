@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-k8s-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theboyisno-1/nodejs-k8s-hello-world.git"
+  },
+  "author": "Abdul Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theboyisno-1/nodejs-k8s-hello-world/issues"
+  },
+  "homepage": "https://github.com/theboyisno-1/nodejs-k8s-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
